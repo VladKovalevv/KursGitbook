@@ -8,6 +8,8 @@
 
 **Возьмем два небольших текста на русском и на англиском \(При желании можете изменить на свой\)**
 
+>
+
 ```python
 textEN = "The Great Wall of China, one of the greatest wonders of the world, was first built between 220–206 BC. In fact, it began as independent walls for different states when it was first built, and did not become the “Great” wall until the Qin Dynasty. Emperor Qin Shihuang succeeded in his effort to have the walls joined together to serve as fortification to protect the northern borders of the Chinese Empire from invasion. Afterwards it was rebuilt and maintained over the years, between the 5th century BC and the 16th century."
 textRUS = "Великая китайская стена – одно из величайших чудес мира – была впервые построена между 220 и 206 годами до нашей эры. В действительности, она начиналась как независимые стены для разных государств, когда была впервые построена, и не стала «великой» стеной до династии Цинь. Император Цинь Шихуанди преуспел в своих усилиях по объединению этих стен, чтобы они служили как укрепления для защиты северных границ Китайской империи от вторжения. Впоследствии, она была перестроена и поддерживалась долгие годы между 5-м веком до нашей эры и 16-м веком."
